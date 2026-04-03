@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Francisco
 
-<!--
-**FranciscoTei/FranciscoTei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, com foco em backend e boas práticas de desenvolvimento
+🎓 Graduado em Ciência e Tecnologia e cursando Engenharia da Computação
+📚 Professor de Educação Tecnológica na EMLGO
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias:
+
+* Python, C, JavaScript (Node.js)
+* Django, FastAPI, Express
+* PostgreSQL, Prisma
+* Docker, Git
+
+🎯 Interesses:
+
+* Desenvolvimento backend
+* Sistemas educacionais
+* Robótica e cultura maker
+* Automação e produtividade
+
+📫 Contato:
+
+* GitHub: https://github.com/FranciscoTei
+* LinkedIn: https://www.linkedin.com/in/franciscotei/
+
+---
+
+💡 "Tecnologia é mais poderosa quando transforma educação."
